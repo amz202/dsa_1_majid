@@ -129,7 +129,6 @@ public:
         return countNodes(root);
     }
 
-
 };
 
 //function to test BST with different sizes
